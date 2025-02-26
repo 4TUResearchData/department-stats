@@ -6,6 +6,8 @@ This repository contains an R project designed to retrieve and analyze departmen
 
 The `department-stats` project facilitates the extraction of departmental data from the 4TU.ResearchData.
 
+*NOTE: For now, code retrieves dataset from TU/e depositing authors only**
+
 ## Features
 
 - **Data Retrieval**: Connects to the djehuty API to fetch up-to-date departmental information.
